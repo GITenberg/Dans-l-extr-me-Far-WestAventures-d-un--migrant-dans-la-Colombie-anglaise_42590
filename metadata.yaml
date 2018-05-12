@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '41762'
     url: http://www.gutenberg.org/2009/agents/41762
 description: 'Translation of: Very Far West Indeed'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42590#Dans-l-extr-me-Far-WestAventures-d-un--migrant-dans-la-Colombie-anglaise
 gutenberg_bookshelf: FR Jeunesse
 gutenberg_issued: '2013-04-24'
 gutenberg_type: Text
