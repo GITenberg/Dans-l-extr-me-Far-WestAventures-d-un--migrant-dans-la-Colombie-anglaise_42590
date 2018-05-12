@@ -1,0 +1,30 @@
+_repo: Dans-l-extr-me-Far-WestAventures-d-un--migrant-dans-la-Colombie-anglaise_42590
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Talandier, Alfred
+    gutenberg_agent_id: '41763'
+    url: http://www.gutenberg.org/2009/agents/41763
+covers:
+- cover_type: archival
+  image_path: 42590-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Johnson, R. Byron (Richard Byron)
+    gutenberg_agent_id: '41762'
+    url: http://www.gutenberg.org/2009/agents/41762
+description: 'Translation of: Very Far West Indeed'
+gutenberg_bookshelf: FR Jeunesse
+gutenberg_issued: '2013-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42590'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'British Columbia -- Description and travel'
+- !lcc 'F1001'
+title: 'Dans l''extrême Far West: Aventures d''un émigrant dans la Colombie anglaise'
+url: http://www.gutenberg.org/ebooks/42590
